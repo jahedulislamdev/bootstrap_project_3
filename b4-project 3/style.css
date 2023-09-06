@@ -1,0 +1,119 @@
+#carousel img{
+     height: 450px;
+     width: 100%;
+     background-position: top;
+     background-size: cover;
+}
+.home1 .content{
+      padding: 30px;
+}
+.home1 .content .fa{
+      font-size: 50px;
+}
+.home2 .overlay{
+      background: rgb(47, 47, 47);
+}
+#getstart{
+      position: relative;
+      background: url(./img/bg1.jpeg);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      min-height: 350px;
+}
+#getstart .dark-overlay{
+     background:  rgba(0, 0, 0, 0.7);
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+}
+.home-video{
+      background-image: url(./img/people.jpeg);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      min-height: 350px;
+      position: relative;
+}
+.home-video .dark-overlay{
+      background:  rgba(0, 0, 0, 0.7);
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+.home-video .col{
+     margin-top: 85px;
+}
+.home-video .col .fa-solid{
+      font-size: 80px;
+      color: red;
+}
+#getstart .col{
+      margin-top: 85px;
+}
+#photoGallery img{
+      height: 250px;
+      width: 370px;
+}
+#copyright{
+      background: black;
+}
+#about-header{
+      background-image: url(./img/image1.jpeg);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+}
+#header-main img{
+      width:300px ;
+      height: 300px;
+}
+#card-section .fa-solid,.fa-brands{
+      font-size: 50px;
+      margin-bottom: 13px;
+}
+#services-header{
+      background-image: url(./img/services.png);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      position: relative;
+      height: 250px;
+}
+#services-header .dark-overlay{
+      background:  rgba(0, 0, 0, 0.7);
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+#blog-header{
+      background-image: url(./img/image3.jpeg);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      position: relative;
+      height: 250px;
+}
+#contact-header{
+      background-image: url(./img/contactus.jpg);
+      background-size: cover;
+      background-position: top;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      position: relative;
+      height: 250px;
+}
+#contact-header .dark-overlay{
+      background:  rgba(0, 0, 0, 0.7);
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
